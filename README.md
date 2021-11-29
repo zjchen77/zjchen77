@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zijie Chen
 - 👀 I’m interested in ML/CV/NLP
-- 🌱 I’m currently learning the unsupervised learning
+- 🌱 I’m currently working on the Unsupervised Learning
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me zchen201@uottawa.ca
 
