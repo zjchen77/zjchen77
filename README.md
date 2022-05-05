@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zijie Chen
 - 👀 I’m interested in NLP/Time Series Prediction
-- 🌱 I’m currently working on the Unsupervised Learning
-- 💞️ I’m looking to collaborate on Machine Learning
+- 🌱 I’m currently working on the Unsupervised Learning in NLP
+- 💞️ I’m looking to collaborate on ML/NLP/CV
 - 📫 How to reach me chenzijie162@gmail.com
 
 <!---
