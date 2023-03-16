@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Zijie Chen
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently working on the Unsupervised Learning in NLP
+- 👋 Hi, I’m Zijie Chen. 
+- 👀 I’m interested in Markov-based Generative Models and Computer Architecture. 
+- 🌱 I’m currently working on the Unsupervised Learning in NLP. 
 - 📫 How to reach me chenzijie162@gmail.com
 
 <!---
