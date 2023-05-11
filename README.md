@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Zijie Chen. 
-- 👀 I’m interested in Markov-based Generative Models and Computer Architecture. 
-- 🌱 I’m currently working on the Unsupervised Learning in NLP. 
-- 📫 How to reach me chenzijie162@gmail.com
+- Currently focused on the GPU acceleration of transformer-based models. 
 
 <!---
 zjchen77/zjchen77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
